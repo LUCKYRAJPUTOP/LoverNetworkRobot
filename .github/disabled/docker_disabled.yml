@@ -24,7 +24,7 @@ jobs:
 
         with:
 
-          name: AuraXNetwork/PglRobot
+          name: LuckyRajputOP/LoverNetworkRobot
 
           username: ${{ secrets.DOCKER_USERNAME }}
 
