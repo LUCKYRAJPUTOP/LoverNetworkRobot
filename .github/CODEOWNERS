@@ -2,7 +2,7 @@
 # Default owners for everything in the repo, unless a later match takes precedence
 
 # Phoenix owns the files under blacklist thingies
-/PglRobot/modules/blacklistusers.py @rsktg
-/PglRobot/modules/sql/blacklistusers_sql.py @rsktg
+/LoverNetworkRobot/modules/blacklistusers.py @rsktg
+/LoverNetworkRobot/modules/sql/blacklistusers_sql.py @rsktg
 
 
